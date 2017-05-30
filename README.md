@@ -3,7 +3,7 @@ This app will convert values between degrees Fahrenheit and degrees Celsius.
 
 Based on Big Nerd Ranch Guide 6th Edition. 
 
-Utilized Delegation, Auto Layout, Number Formatter, UITapGestureRecognizer, UITabBarController and NSCharacterSet 
+Utilized Delegation, Auto Layout, Number Formatter, UITapGestureRecognizer, MapKit.framework, UITabBarController and NSCharacterSet.
 
 TextField input disallows alphabetic characters & multiple decimals.
 
