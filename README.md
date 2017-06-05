@@ -1,5 +1,5 @@
 # WorldTrotter-
-This app will convert values between degrees Fahrenheit and degrees Celsius. 
+This app will convert values between degrees Fahrenheit and degrees Celsius and navigate the world map in various ways. 
 
 Based on Big Nerd Ranch Guide 6th Edition. 
 
