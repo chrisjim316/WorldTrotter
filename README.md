@@ -10,6 +10,6 @@ TextField input disallows alphabetic characters & multiple decimals.
 Completed Silver Challenge: Dark Mode.
 
 
-![alt text](4d8321ac-4984-11e7-98a4-05adf3d13a43.png) 
+![alt text](https://cloud.githubusercontent.com/assets/26378494/26763357/4d8321ac-4984-11e7-98a4-05adf3d13a43.png) 
 
 ![alt text](https://cloud.githubusercontent.com/assets/26378494/26585614/36d60cac-457f-11e7-8962-0804d1b6e53a.png) 
