@@ -1,9 +1,9 @@
 # WorldTrotter-
-This app will convert values between degrees Fahrenheit and degrees Celsius and navigate the world map in various ways. 
+This app contains multiple views(tabs). One view converts values between degrees Fahrenheit and degrees Celsius, and the other view displays the world map and allows you to navigate freely and use multiple other functions embedded on the screen.
 
 Based on Big Nerd Ranch Guide 6th Edition. 
 
-Utilized Delegation, Auto Layout, Number Formatter, UITapGestureRecognizer, MapKit.framework, UITabBarController and NSCharacterSet.
+Utilized Delegation, Auto Layout, Number Formatter, UITapGestureRecognizer, MapKit.framework, UITabBarController, NSCharacterSet, programmatic view, programmatic constraints, programmatic controls(UIControl Events - UISegmented Controls), anchors, NSLayoutConstraint, Layout Guides, Margins.
 
 TextField input disallows alphabetic characters & multiple decimals.
 
