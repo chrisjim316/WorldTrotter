@@ -7,7 +7,7 @@ Utilized Delegation, Auto Layout, Number Formatter, UITapGestureRecognizer, MapK
 
 TextField input disallows alphabetic characters & multiple decimals.
 
-Completed Silver Challenge: Dark Mode.
+Completed Silver Challenge: Dark Mode, Bronze Challenge: Another Tab. 
 
 
 ![alt text](https://cloud.githubusercontent.com/assets/26378494/26763357/4d8321ac-4984-11e7-98a4-05adf3d13a43.png) 
