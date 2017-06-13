@@ -1,5 +1,5 @@
 # WorldTrotter-
-This app contains multiple views(tabs). One view converts values between degrees Fahrenheit and degrees Celsius, and the other view displays the world map and allows you to navigate freely and use multiple other functions embedded on the screen.
+This app contains multiple views(tabs). One view converts values between degrees Fahrenheit and degrees Celsius, one displays the world map, and the other displays web view. All views are localized in three distinct languages. 
 
 Based on Big Nerd Ranch Guide 6th Edition. 
 
