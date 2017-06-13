@@ -3,7 +3,7 @@ This app contains multiple views(tabs). One view converts values between degrees
 
 Based on Big Nerd Ranch Guide 6th Edition. 
 
-Utilized Delegation, Auto Layout, Number Formatter, UITapGestureRecognizer, MapKit.framework, UITabBarController, NSCharacterSet, programmatic view, programmatic constraints, programmatic controls(UIControl Events - UISegmented Controls), anchors, NSLayoutConstraint, Layout Guides, Margins, Internationalization, Localization. 
+Utilized Delegation, Auto Layout, Number Formatter, UITapGestureRecognizer, MapKit.framework, UITabBarController, NSCharacterSet, programmatic view, programmatic constraints, programmatic controls(UIControl Events - UISegmented Controls), anchors, NSLayoutConstraint, Layout Guides, Margins, Internationalization, Localizations(English, Spanish, Chinese), NSLocalizedString.
 
 TextField input disallows alphabetic characters & multiple decimals.
 
