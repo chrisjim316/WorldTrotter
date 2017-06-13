@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="WorldTrotter/Base.lproj/LaunchScreen.storyboard" source-language="en" datatype="plaintext" target-language="zh-Hant">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.3.3" build-num="8E3004b"/>
+    </header>
+    <body/>
+  </file>
+  <file original="WorldTrotter/Base.lproj/Main.storyboard" source-language="en" datatype="plaintext" target-language="zh-Hant">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.3.3" build-num="8E3004b"/>
+    </header>
+    <body>
+      <trans-unit id="DmW-yb-9bI.title">
+        <source>Web</source>
+        <target>網頁</target>
+        <note>Class = "UITabBarItem"; title = "Web"; ObjectID = "DmW-yb-9bI";</note>
+      </trans-unit>
+      <trans-unit id="ExE-fQ-4rQ.placeholder">
+        <source>value</source>
+        <target>值</target>
+        <note>Class = "UITextField"; placeholder = "value"; ObjectID = "ExE-fQ-4rQ";</note>
+      </trans-unit>
+      <trans-unit id="VQS-uX-4po.text">
+        <source>is really</source>
+        <target>真的是</target>
+        <note>Class = "UILabel"; text = "is really"; ObjectID = "VQS-uX-4po";</note>
+      </trans-unit>
+      <trans-unit id="W7I-wp-LJh.title">
+        <source>Convert</source>
+        <target>轉換</target>
+        <note>Class = "UITabBarItem"; title = "Convert"; ObjectID = "W7I-wp-LJh";</note>
+      </trans-unit>
+      <trans-unit id="eVX-Dp-g0l.title">
+        <source>Map</source>
+        <target>地圖</target>
+        <note>Class = "UITabBarItem"; title = "Map"; ObjectID = "eVX-Dp-g0l";</note>
+      </trans-unit>
+      <trans-unit id="fRf-Ty-vye.text">
+        <source>degrees Celsius</source>
+        <target>攝氏度</target>
+        <note>Class = "UILabel"; text = "degrees Celsius"; ObjectID = "fRf-Ty-vye";</note>
+      </trans-unit>
+      <trans-unit id="uOw-92-P2S.text">
+        <source>degrees Fahrenheit</source>
+        <target>華氏度</target>
+        <note>Class = "UILabel"; text = "degrees Fahrenheit"; ObjectID = "uOw-92-P2S";</note>
+      </trans-unit>
+      <trans-unit id="yC8-cy-Qjh.text">
+        <source>100</source>
+        <target>100</target>
+        <note>Class = "UILabel"; text = "100"; ObjectID = "yC8-cy-Qjh";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="WorldTrotter/Info.plist" source-language="en" datatype="plaintext" target-language="zh-Hant">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.3.3" build-num="8E3004b"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName">
+        <source>$(PRODUCT_NAME)</source>
+      </trans-unit>
+      <trans-unit id="CFBundleShortVersionString">
+        <source>1.0</source>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="WorldTrotter/en.lproj/Localizable.strings" source-language="en" datatype="plaintext" target-language="zh-Hant">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.3.3" build-num="8E3004b"/>
+    </header>
+    <body>
+      <trans-unit id="Hybrid">
+        <source>Hybrid</source>
+        <target>實體</target>
+        <note>Hybrid map view</note>
+      </trans-unit>
+      <trans-unit id="Satellite">
+        <source>Satellite</source>
+        <target>衛星</target>
+        <note>Satellite map view</note>
+      </trans-unit>
+      <trans-unit id="Standard">
+        <source>Standard</source>
+        <target>標準</target>
+        <note>Standard map view</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="WorldTrotterTests/Info.plist" source-language="en" datatype="plaintext" target-language="zh-Hant">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.3.3" build-num="8E3004b"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName">
+        <source>$(PRODUCT_NAME)</source>
+      </trans-unit>
+      <trans-unit id="CFBundleShortVersionString">
+        <source>1.0</source>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="WorldTrotterUITests/Info.plist" source-language="en" datatype="plaintext" target-language="zh-Hant">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.3.3" build-num="8E3004b"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName">
+        <source>$(PRODUCT_NAME)</source>
+      </trans-unit>
+      <trans-unit id="CFBundleShortVersionString">
+        <source>1.0</source>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
